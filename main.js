@@ -1,5 +1,5 @@
 // Thay đổi nội dung búc thư ở đây
-var letterContent =" Cảm ơn em đã dành thời gian để nhìn những trò trẻ con của anhh và anh có những điều muốn gởi gắm đến tình iu của anhh❤️. Chúc embes của anh 1/6 vui vẻ luôn hạnh phúc và đậu nguyện vọng 1 nhé , đợi anh về anh sẽ dẫn nàng đi chơi . Anh rất yêu em💕"
+var letterContent =" Cảm ơn em đã dành thời gian để nhìn trò trẻ con của anhh, anh có những điều muốn gởi gắm đến em ❤️ ,hiện tại có thể anh chưa quen được với việc có ai đó trong cuộc sống của mình và có thể nhiều lúc vô ý làm em buồn , nhưng anh sẽ cố gắng hơn để có thể quan tâm em nhiều hơn . Hiện tại mình chưa là gì nhưng tương lai sau khi tìm hiểu nhiều hơn chúng ta có thể là gì đó hơn hiện tại hehe. Năm sau khi anh về nước công chúa có thể sắp xếp gặp tôi được không :333, nếu được tôi cũng sẽ về tham dự lễ tốt nghiệp của nàng nựa❤️. Love you💕"
 
 // Tốc độ viết chữ. Số càng nhỏ tốc độ càng nhanh. 50 là tốc độ khá phù hợp
 durationWrite = 50 
